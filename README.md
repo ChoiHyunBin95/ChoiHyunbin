@@ -81,14 +81,14 @@ AndroidPrograming인데 m을 두개쓰는 오타가 발생하였지만 이미 �
 ### 5. 하이퍼링크
 ```
 syntax: [보여질이름](링크주소)
-바로가기: [서동준의 Github](https://github.com/sReNcAt)
+바로가기: [최현빈의 Github](https://github.com/Parktaewon12345)
 <주소>
-<http://https://github.com/sReNcAt>
-<srencat@naver.com>
+<http://https://github.com/Parktaewon12345>
+<chbgusqls@naver.com>
 ```
-바로가기: [서동준의 Github](https://github.com/sReNcAt)
-<http://https://github.com/sReNcAt>
-<srencat@naver.com>
+바로가기: [최현빈의 Github](https://github.com/Parktaewon12345)
+<http://https://github.com/Parktaewon12345>
+<chbgusqls@naver.com>
 ### 6. 폰트 조절
 ```
 *하나의 별*
@@ -115,7 +115,7 @@ __두개의 언더바__
 
 ***
 # Git 명령어 정리
-![Alt text](https://github.com/sReNcAt/AndroidProgramming/blob/master/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.png?raw=true "git 실행")
+![Alt text](https://github.com/Parktaewon12345/AndroidProgramming/blob/master/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.png?raw=true "git 실행")
 우선 적으로 git repo관리를 위해 사용자 설정을 해줘야한다.
 repo별 설정 조회는 각 .git이 생성된 폴더로 경로를 이동하여 하여야한다
 > 전역 사용자
